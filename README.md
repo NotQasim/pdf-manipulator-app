@@ -1,11 +1,7 @@
 <h1 align="center">PDF Manipulator App</h1>
-<br>
 <h2>Introduction</h2>
-<br>
 <p>This is a GUI Application written in Python, intended for Windows users that can manipulate PDF files in various ways, including text extraction, image extraction, encryption, and conversion of DOCX files to PDF files.</p>
-<br>
 <h2>Features</h2>
-<br>
 <ul>
   <li>Extract text</li>
   <li>Extract images</li>
@@ -18,4 +14,3 @@
   <li>Merge PDFs</li>
   <li>Convert Word to PDF</li>
 </ul>
-<br>
