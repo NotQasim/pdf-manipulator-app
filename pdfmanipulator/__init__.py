@@ -1,2 +1,2 @@
-from pdf_manipulator import PdfManipulator
-from pdf_utilities import merge_pdfs, convert_word_to_pdf
+from pdfmanipulator.pdf_manipulator import PdfManipulator
+from pdfmanipulator.pdf_utilities import merge_pdfs, convert_word_to_pdf
